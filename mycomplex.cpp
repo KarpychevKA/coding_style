@@ -1,3 +1,4 @@
+//make2
 /*!
     @file mycomplex.cpp
     @brief Файл с описанием методов класса Complex
