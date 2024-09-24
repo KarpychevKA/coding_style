@@ -1,5 +1,5 @@
-//make1
-//make2
+//make2.1
+//make2.2
 #include <iostream>
 #include "mycomplex.h"
 
